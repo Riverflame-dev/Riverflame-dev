@@ -7,7 +7,6 @@
 
 I am Yilei Li 😃 from Shanghai, China. I'm pursing my Masters in Electrical and Computer Engineering at Carnegie Mellon University, Pittsburgh 🏫. I love to explore and learn about new things. I aim to engineer, innovate, and impact the technologies and the lives they affect.✨
 
-<br>
 <!--
 **Riverflame-dev/Riverflame-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
