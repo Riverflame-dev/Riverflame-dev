@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Riverflame-dev.Riverflame-dev&color=00cf00)
 <!--
 **Riverflame-dev/Riverflame-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+## :book: About Me
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
