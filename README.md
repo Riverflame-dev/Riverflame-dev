@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Yilei Li
+<h1> Hi there 👋 , I'm Yilei Li</h1>
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Riverflame-dev.Riverflame-dev&color=00cf00)
 <!--
@@ -53,7 +53,17 @@ Here are some ideas to get you started:
   <a href="https://leetcode.com/abhishekmaira1999/">
     <img src="https://raw.githubusercontent.com/Riverflame-dev/Riverflame-dev/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riverflame-dev&" alt="riverflame-dev" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/riverflame-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="riverflame-dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yilei-li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yilei-li" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20096088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20096088" height="30" width="40" /></a>
+<a href="https://codesandbox.com/the.yilei.li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="the.yilei.li" height="30" width="40" /></a>
+<a href="https://instagram.com/addydabaddie0410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="addydabaddie0410" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/riverflame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riverflame" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Riverflame-dev&theme=highcontrast&hide_border=true" alt="riverflame-dev" /></p>
+
