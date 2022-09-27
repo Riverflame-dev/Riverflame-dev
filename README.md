@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Yilei's GitHub stats](https://github-readme-stats.vercel.app/api?username=riverflame-dev&show_icons=true&theme=radical)
+
+![](https://raw.githubusercontent.com/riverflame-dev/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/riverflame-dev/github-stats-transparent/output/generated/languages.svg)
+
