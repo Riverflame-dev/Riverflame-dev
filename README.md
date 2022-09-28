@@ -11,8 +11,7 @@ I am Yilei Li 😃 from Shanghai, China. I'm pursing my Masters in Electrical an
 **Riverflame-dev/Riverflame-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## :book: About Me
-
+### About Me
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning Computer Networks, CSAPP, and the Cloud
 - 👯 I’m looking to collaborate on fun IoT projects
@@ -20,7 +19,7 @@ I am Yilei Li 😃 from Shanghai, China. I'm pursing my Masters in Electrical an
 - ⚡ Fun fact: ...
 
 
-## ⚡Languages and Tools:
+### Languages and Tools:
 
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -45,7 +44,7 @@ I am Yilei Li 😃 from Shanghai, China. I'm pursing my Masters in Electrical an
 
 
 
-## Github Stats
+## Github Stats⚡
 
 ![](https://raw.githubusercontent.com/riverflame-dev/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/riverflame-dev/github-stats-transparent/output/generated/languages.svg)
