@@ -5,7 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:the.yilei.li@gmail.com)
 
 
-I am Yilei Li 😃 from Shanghai, China. I'm pursing my Masters in Electrical and Computer Engineering at Carnegie Mellon University, Pittsburgh 🏫. I love to explore and learn about new things. I aim to engineer, innovate, and impact the technologies and the lives they affect.✨
+I am Yilei Li 😃 from Shanghai, China. I'm pursing my Masters in Electrical and Computer Engineering at Carnegie Mellon University, Pittsburgh 🏫. 
+
+I build things, from PCB boards to full stack websites to IoT. I value scalability, sustainability, and integrity above all else. These ideals guide my approach to problem-solving and life in general. I aim to engineer, innovate, and impact the technologies and the lives they affect.✨
 
 <!--
 **Riverflame-dev/Riverflame-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
