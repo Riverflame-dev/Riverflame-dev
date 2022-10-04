@@ -46,12 +46,19 @@ I build things, from PCB boards to full stack websites to IoT. I value scalabili
 
 
 
+### Web development
+ <img height="40" src="https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,react,flask,mongodb,materialui,figma" />
+
+### Machine Learning
+ <img height="40" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab" />
+
+
 ## Github Stats⚡
 
 ![](https://raw.githubusercontent.com/riverflame-dev/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/riverflame-dev/github-stats-transparent/output/generated/languages.svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Riverflame-dev&theme=highcontrast&hide_border=true" alt="riverflame-dev" /></p>
+<p><img align="center" width="400" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=Riverflame-dev&theme=highcontrast&hide_border=true" alt="riverflame-dev" /></p>
 
 ## Connect with me:
 
