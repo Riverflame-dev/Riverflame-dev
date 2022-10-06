@@ -21,20 +21,14 @@ I build things, from PCB boards to full stack websites to IoT. I value scalabili
 - ⚡ Fun fact: ...
 
 
-### Languages and Tools:
+### Skills
 
-### Web development
- <img height="40" src="https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,react,flask,mongodb,materialui,figma" />
-
-### Machine Learning
- <img height="40" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab" />
- 
-### Firmware
- <img height="40" src="https://skillicons.dev/icons?i=c,cpp,arduino," /> 
-
-### Cloud (Learning...)
- <img height="40" src="https://skillicons.dev/icons?i=go,kubernetes,docker,aws,gcp,azure" />
-
+| Tech Stack | Languages & Tools |
+| --- | --- |
+| Web development  | <img height="40" src="https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,react,flask,mongodb,materialui,figma" /> |
+| Machine Learning | <img height="40" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab" /> |
+| Firmware | <img height="40" src="https://skillicons.dev/icons?i=c,cpp,arduino," />  |
+| Cloud (Learning...) | <img height="40" src="https://skillicons.dev/icons?i=go,kubernetes,docker,aws,gcp,azure" /> |
 
 ## Github Stats⚡
 
