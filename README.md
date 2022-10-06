@@ -35,7 +35,8 @@ I build things, from PCB boards to full stack websites to IoT. I value scalabili
 ![](https://raw.githubusercontent.com/riverflame-dev/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/riverflame-dev/github-stats-transparent/output/generated/languages.svg)
 
-<p><img align="center" width="400" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=Riverflame-dev&theme=highcontrast&hide_border=true" alt="riverflame-dev" /></p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ## Connect with me:
 
